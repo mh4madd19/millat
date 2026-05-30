@@ -1,102 +1,10 @@
 [
   {
-    "id": 1,
-    "english": "Dental Implant",
-    "kurdish_sorani": "چاندنی ددان"
+    "name": "Channel 1",
+    "url": "https://example.com/live"
   },
   {
-    "id": 2,
-    "english": "Dental Crown",
-    "kurdish_sorani": "تاپی ددان"
-  },
-  {
-    "id": 3,
-    "english": "Teeth Whitening",
-    "kurdish_sorani": "سپیکردنەوەی ددان"
-  },
-  {
-    "id": 4,
-    "english": "Dental Filling",
-    "kurdish_sorani": "پڕکردنەوەی ددان"
-  },
-  {
-    "id": 5,
-    "english": "Orthodontics",
-    "kurdish_sorani": "ڕیزکردنی ددان"
-  },
-  {
-    "id": 6,
-    "english": "Tooth Extraction",
-    "kurdish_sorani": "دەرکردنی ددان"
-  },
-  {
-    "id": 7,
-    "english": "Root Canal Treatment",
-    "kurdish_sorani": "چارەسەری ڕەگی ددان"
-  },
-  {
-    "id": 8,
-    "english": "Dental Cleaning",
-    "kurdish_sorani": "پاککردنەوەی ددان"
-  },
-  {
-    "id": 9,
-    "english": "Dental Veneers",
-    "kurdish_sorani": "ڤینێری ددان"
-  },
-  {
-    "id": 10,
-    "english": "Braces Installation",
-    "kurdish_sorani": "دانانی بڕەیس"
-  },
-  {
-    "id": 11,
-    "english": "Dentures",
-    "kurdish_sorani": "ددانی دەستکرد"
-  },
-  {
-    "id": 12,
-    "english": "Gum Treatment",
-    "kurdish_sorani": "چارەسەری لثە"
-  },
-  {
-    "id": 13,
-    "english": "Wisdom Tooth Removal",
-    "kurdish_sorani": "دەرکردنی ددانی عەقل"
-  },
-  {
-    "id": 14,
-    "english": "Pediatric Dentistry",
-    "kurdish_sorani": "ددانپزیشکی منداڵان"
-  },
-  {
-    "id": 15,
-    "english": "Dental X-Ray",
-    "kurdish_sorani": "ئاشعەی ددان"
-  },
-  {
-    "id": 16,
-    "english": "Smile Makeover",
-    "kurdish_sorani": "جوانکردنی پێکەنین"
-  },
-  {
-    "id": 17,
-    "english": "Tooth Bonding",
-    "kurdish_sorani": "بۆندینگی ددان"
-  },
-  {
-    "id": 18,
-    "english": "Night Guard",
-    "kurdish_sorani": "پارێزەری شەوانەی ددان"
-  },
-  {
-    "id": 19,
-    "english": "Retainer",
-    "kurdish_sorani": "ڕیتەینەر"
-  },
-  {
-    "id": 20,
-    "english": "Dental Consultation",
-    "kurdish_sorani": "ڕاوێژی ددانپزیشکی"
+    "name": "Channel 2",
+    "url": "https://example2.com/tv"
   }
 ]
